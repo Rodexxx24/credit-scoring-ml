@@ -12,6 +12,10 @@ The study focuses on comparing the predictive performance and error behavior of 
 ## Dataset
 A banking credit dataset consisting of customer demographic information, financial attributes, and loan characteristics.
 
+## Dataset Source
+The dataset used in this study is the German Credit Risk Dataset, publicly available on Kaggle:
+https://www.kaggle.com/datasets/uciml/german-credit
+
 ## Evaluation Metrics
 - Accuracy
 - Precision
